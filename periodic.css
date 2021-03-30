@@ -1,0 +1,139 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+div.container {
+	display: inline-block;
+	width: 1350px;
+	height: 1000px;
+	background-color: #eeeeee;
+}
+h2 {
+	color: red;
+	width: 50px;
+	font-size: 15px;
+	display: inline-block;
+	padding: 10px;
+}
+h3 {
+	display: inline-block;
+	font-size: 15px;
+	color: red;
+	vertical-align: top;
+	padding-top: 12px;
+	width: 40px;
+	margin-left: 20px;
+}
+h4 {
+	font-size: 15px;
+	color: red;
+	width: 40px;
+	padding: 10px;
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-right: 0px;
+}
+h6 {
+ 	width: 60px;
+ 	height: 60px;
+ 	margin-top: 5px;
+}
+div.column-number {
+	display: inline-block;
+	width: 65px;
+}
+div.blue-element {
+	vertical-align: top;
+	display: inline-block;
+	width: 60px;
+	min-height: 460px;
+	margin-top: 10px;
+}
+	div.blue-element div {
+		text-align: center;
+		width: 60px;
+		height: 60px;
+		background-color: #689bff;
+		border: 1px solid black;
+		font-size: 14px;
+		margin-top: 3px;
+	}
+	div.blue-element p {
+		font-size: 20px;
+	}
+div.pink-element-container {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 5px;
+}
+div.pink-element {
+	vertical-align: top;
+	display: inline-block;
+	width: 60px;
+	min-height: 300px;
+	margin-top: 205px;
+}
+	div.pink-element div {
+		text-align: center;
+		width: 60px;
+		height: 60px;
+		background-color: #fd9a98;
+		border: 1px solid black;
+		font-size: 14px;
+		margin-top: 3px;
+	}
+	div.pink-element p {
+		font-size: 20px;
+	}
+div.orange-element {
+	vertical-align: top;
+	display: inline-block;
+	width: 60px;
+	min-height: 460px;
+	margin-top: 10px;
+}
+	div.orange-element div {
+			text-align: center;
+			width: 60px;
+			height: 60px;
+			background-color: #fecb00;
+			border: 1px solid black;
+			font-size: 14px;
+			margin-top: 3px;
+		}
+	div.orange-element p {
+		font-size: 20px;
+	}
+div.other-element {
+	vertical-align: top;
+	display: inline-block;
+	min-height: 100px;
+	width: 150px;
+	margin-left: 20px;
+}
+	div.other-element p {
+		color: red;
+		padding: 25px;
+	}
+div.green-element-holder {
+	display: inline-block;
+	margin-left: 28px;
+}
+div.green-element {
+	vertical-align: top;
+	display: inline-block;
+	width: 60px;
+	min-height: 150px;
+}
+	div.green-element div {
+			text-align: center;
+			width: 60px;
+			height: 60px;
+			background-color: #1fca21;
+			border: 1px solid black;
+			font-size: 14px;
+			margin-top: 3px;
+	}
+	div.green-element p {
+		font-size: 20px;
+	}
